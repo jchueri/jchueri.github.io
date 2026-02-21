@@ -2,33 +2,53 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate Professor, Computational Social Science, <a href="https://www.uva.nl/en" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: petter-tornberg-profile.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institute for Logic, Language and Computation (ILLC)</p>
+    <p>University of Amsterdam</p>
+    <p>Amsterdam, The Netherlands</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Petter Törnberg is Associate Professor in Computational Social Science at the University of Amsterdam and head of the research unit **AI, Culture & Society** at ILLC. His research examines how digital platforms and AI reshape public discourse, political conflict, urban life, and democratic institutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His work combines large-scale computational analysis with social theory, and has been published in outlets including *PNAS*, *New Media & Society*, *Big Data & Society*, and *The International Journal of Press/Politics*. He is the author of two books, including *Intimate Communities of Hate* (Routledge, 2024) and *Seeing Like a Platform* (Taylor & Francis, 2025).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+According to his 2025 CV/Google Scholar profile, his work has received over 4,000 citations.
+
+## Research Focus
+
+- Digital politics, misinformation, and polarization
+- Social media governance and platform power
+- Large language models for social science research
+- Urban/platform transformations and digital capitalism
+
+## Leadership, Grants, and Recognition
+
+- Head of Research Unit: **AI, Culture & Society** (ILLC, UvA)
+- **NWO VIDI** (€850,000, 2025-2030): Improving social media with large language models
+- **NWO VENI** (€250,000, 2021-2025): Seeing the city through digital platforms
+- **Swedish Research Council (VR)** (€472,000, 2026-2029): False words, failing democracies? (Co-PI)
+- **Trans-Atlantic Platform** grant (€500,000, 2024-2027), Co-PI
+- Member of **De Jonge Akademie** (KNAW)
+
+## Explore
+
+- [Selected publications with summaries and impact](/publications/)
+- [Media appearances and commentary](/media/)
+- [Press kit and downloadable photos](/press/)
+- [Current and past research projects](/projects/)
+- [CV overview](/cv/)

@@ -8,10 +8,6 @@ profile:
   align: right
   image: juliana-chueri.jpg
   image_circular: true
-  more_info: >
-    <p>Department of Political Science and Public Administration</p>
-    <p>Vrije Universiteit Amsterdam</p>
-    <p>Amsterdam, The Netherlands</p>
 
 selected_papers: false
 social: true

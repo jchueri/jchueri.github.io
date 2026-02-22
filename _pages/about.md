@@ -6,6 +6,8 @@ subtitle: Assistant Professor of Comparative Politics, <a href="https://vu.nl/en
 
 profile:
   align: right
+  image: juliana-chueri.jpg
+  image_circular: true
   more_info: >
     <p>Department of Political Science and Public Administration</p>
     <p>Vrije Universiteit Amsterdam</p>

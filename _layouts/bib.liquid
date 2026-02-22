@@ -198,6 +198,37 @@
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
+      {% if entry.doi %}
+        <a
+          href="https://www.altmetric.com/details.php?doi={{ entry.doi | url_encode }}"
+          class="btn btn-sm z-depth-0"
+          role="button"
+        >Altmetric</a>
+      {% elsif entry.arxiv %}
+        <a
+          href="https://www.altmetric.com/details.php?arxiv_id={{ entry.arxiv | url_encode }}"
+          class="btn btn-sm z-depth-0"
+          role="button"
+        >Altmetric</a>
+      {% elsif entry.eprint %}
+        <a
+          href="https://www.altmetric.com/details.php?arxiv_id={{ entry.eprint | url_encode }}"
+          class="btn btn-sm z-depth-0"
+          role="button"
+        >Altmetric</a>
+      {% elsif entry.pmid %}
+        <a
+          href="https://www.altmetric.com/details.php?pmid={{ entry.pmid | url_encode }}"
+          class="btn btn-sm z-depth-0"
+          role="button"
+        >Altmetric</a>
+      {% elsif entry.url %}
+        <a
+          href="https://www.altmetric.com/details.php?uri={{ entry.url | url_encode }}"
+          class="btn btn-sm z-depth-0"
+          role="button"
+        >Altmetric</a>
+      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}

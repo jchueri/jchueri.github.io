@@ -7,10 +7,42 @@ nav_order: 2
 description: podcast, writing, and media appearances
 ---
 
+## Media Impact
+
+This work has received sustained international media attention across science journalism, policy media, national newspapers, and podcasts.  
+Coverage includes outlets such as *Science*, *The Guardian*, *The Atlantic*, *New Scientist*, *Business Insider*, and *Tech Policy Press*, with repeated attention to research on misinformation, polarization, platform design, and AI-driven social simulation.
+
 ## Podcast
 
 <ul class="media-list">
-  <li><span class="media-date">2025-09-29</span><span class="media-source">Sean Carroll's Mindscape</span><a href="https://wondery.com/shows/sean-carrolls-mindscape/episode/6148-petter-tornberg-on-the-dynamics-of-misinformation/">Petter Tornberg on the Dynamics of (Mis)Information</a></li>
+  <li>
+    <span class="media-date">2025-09-26</span><span class="media-source">Quirks & Quarks (CBC)</span><a href="https://www.iheart.com/podcast/553-quirks-and-quarks-57405186/episode/tracking-grizzlies-in-bc-with-ai-297000157/">Tracking Grizzlies in B.C with AI and more…</a>
+    <div class="media-links"><a href="https://www.iheart.com/podcast/553-quirks-and-quarks-57405186/episode/tracking-grizzlies-in-bc-with-ai-297000157/">Episode page</a> · <a href="https://podcasts.apple.com/us/podcast/quirks-and-quarks/id151485804">Apple Podcasts</a> · Spotify</div>
+  </li>
+  <li>
+    <span class="media-date">2025-09-29</span><span class="media-source">Sean Carroll's Mindscape</span><a href="https://www.preposterousuniverse.com/podcast/2025/09/29/330-petter-tornberg-on-the-dynamics-of-misinformation/">Episode 330: Petter Törnberg on the Dynamics of (Mis)Information</a>
+    <div class="media-links"><a href="https://www.preposterousuniverse.com/podcast/2025/09/29/330-petter-tornberg-on-the-dynamics-of-misinformation/">Show page</a> · <a href="https://music.amazon.com/podcasts/bb552289-9d7b-43b8-b861-2a91b5d2e839/episodes/ffb1453e-5575-46a5-a9c4-d9c151294d74/sean-carroll%27s-mindscape-science-society-philosophy-culture-arts-and-ideas-330-petter-t%C3%B6rnberg-on-the-dynamics-of-mis-information">Amazon Music listing</a></div>
+  </li>
+  <li>
+    <span class="media-date">2025-09-29</span><span class="media-source">Singularity.FM (Nikola Danaylov)</span><a href="https://www.singularityweblog.com/petter-tornberg/">Petter Törnberg on Algorithmic Tyranny, the Rise of Digital Modernity and Seeing Like a Platform</a>
+    <div class="media-links"><a href="https://www.singularityweblog.com/petter-tornberg/">Episode page</a> · <a href="https://podcasts.apple.com/us/podcast/singularity-fm/id398887225">Apple Podcasts page</a> · Spotify show page</div>
+  </li>
+  <li>
+    <span class="media-date">2025-08-13</span><span class="media-source">New Books Network (New Work in Digital Humanities)</span><a href="https://newbooksnetwork.com/seeing-like-a-platform">Seeing Like a Platform (with Justus Uitermark)</a>
+    <div class="media-links"><a href="https://newbooksnetwork.com/seeing-like-a-platform">Episode page</a> · <a href="https://newbooksnetwork.com/category/arts-letters/new-work-in-digital-humanities">Category page (dated listing)</a></div>
+  </li>
+  <li>
+    <span class="media-date">2025-08-31</span><span class="media-source">The Tech Policy Press Podcast</span><a href="https://www.techpolicy.press/seeing-like-a-platform-a-conversation-with-petter-trnberg/">'Seeing Like a Platform' - A Conversation with Petter Tornberg</a>
+    <div class="media-links"><a href="https://www.techpolicy.press/seeing-like-a-platform-a-conversation-with-petter-trnberg/">Episode page</a></div>
+  </li>
+  <li>
+    <span class="media-date">2025-12-10</span><span class="media-source">Outrage Overload</span><a href="https://outrageoverload.net/outrage-78-when-ai-becomes-the-most-persuasive-voice-in-the-room-petter-tornberg/">Outrage 78 - When AI Becomes the Most Persuasive Voice in the Room</a>
+    <div class="media-links"><a href="https://outrageoverload.net/outrage-78-when-ai-becomes-the-most-persuasive-voice-in-the-room-petter-tornberg/">Episode page</a> · Spotify show page</div>
+  </li>
+  <li>
+    <span class="media-date">2023-09-04</span><span class="media-source">Data Skeptic</span><a href="https://goodpods.com/podcasts/data-skeptic-38263/llms-in-social-science-33114077">LLMs in Social Science</a>
+    <div class="media-links"><a href="https://dataskeptic.libsyn.com/">Libsyn listing</a> · <a href="https://goodpods.com/podcasts/data-skeptic-38263/llms-in-social-science-33114077">Goodpods listing</a></div>
+  </li>
 </ul>
 
 ## Writing
@@ -25,7 +57,6 @@ description: podcast, writing, and media appearances
 ### 2025
 
 <ul class="media-list">
-  <li><span class="media-date">2025-08-31</span><span class="media-source">Tech Policy Press (interview)</span><a href="https://www.techpolicy.press/seeing-like-a-platform-a-conversation-with-petter-trnberg/">'Seeing Like a Platform' - A Conversation with Petter Tornberg</a></li>
   <li><span class="media-date">2025-08-28</span><span class="media-source">The Week (feature)</span><a href="https://theweek.com/tech/what-an-all-bot-social-network-tells-us-about-social-media">What an all-bot social network tells us about social media</a></li>
   <li><span class="media-date">2025-08-23</span><span class="media-source">New Scientist (issue feature)</span><a href="https://reader.exacteditions.com/issues/141395/page/16">Algorithms not to blame for social media toxicity</a></li>
   <li><span class="media-date">2025-08-20</span><span class="media-source">UNN (Ukraine, syndication)</span><a href="https://unn.ua/en/news/scientists-created-a-social-network-of-bots-what-they-learned">Scientists created a social network of bots: what they learned</a></li>

@@ -2,24 +2,24 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-first_name: Petter
+first_name: Juliana
 middle_name:
-last_name: Törnberg
+last_name: Chueri
 contact_note: >
-  For interviews, speaking invitations, or collaboration inquiries, please contact Petter via email.
+  For interviews, speaking invitations, or collaboration inquiries, please contact Juliana via her institutional profile.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Associate Professor in Computational Social Science at the University of Amsterdam. Research on digital platforms,
-  AI, political communication, and polarization.
+  Assistant Professor of Comparative Politics at Vrije Universiteit Amsterdam. Research on welfare state politics,
+  populist radical-right parties, platform work, and AI.
 footer_text: >
-  © Petter Törnberg. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and
+  © Juliana Chueri. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>.
-keywords: Petter Törnberg, University of Amsterdam, computational social science, digital politics, social media, AI, polarization
+keywords: Juliana Chueri, Vrije Universiteit Amsterdam, comparative politics, welfare state, radical right, platform work, AI
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: "https://cssmodels.github.io"
+url: "https://julianachueri.github.io"
 baseurl: ""   # must be empty for a user/org site repo named cssmodels.github.io
-title: "Petter Törnberg"  # (any title)
+title: "Juliana Chueri"  # (any title)
 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,7 +66,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: assets/img/petter-tornberg-profile.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Notes
-blog_description: writing on digital politics, AI, and society
+blog_description: writing on comparative politics, welfare states, and AI
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -259,8 +259,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Tornberg, Törnberg]
-  first_name: [Petter, P.]
+  last_name: [Chueri]
+  first_name: [Juliana, J.]
 
   style: apa
   locale: en

@@ -3,48 +3,44 @@ layout: page
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-description: academic positions, grants, supervision, teaching, and service
+nav_order: 4
+description: appointments, education, publications, and invited talks
 ---
 
 ## Current Position
 
-**Associate Professor (UD1), Computational Social Science**  
-Institute for Logic, Language and Computation (ILLC), University of Amsterdam
+**Assistant Professor, Comparative Politics**  
+Department of Political Science and Public Administration, Vrije Universiteit Amsterdam  
+(October 2023-present)
 
 ## Previous Appointments
 
-- Assistant Professor (UD2), Computational Social Science, University of Amsterdam (2023-2024)
-- Senior Researcher, Geography, University of Neuchâtel (2022-2025)
-- NWO VENI Postdoctoral Researcher, Urban Geography, University of Amsterdam (2021-2025)
-- Postdoctoral Researcher, Complex Systems, Chalmers University of Technology (2019-2021)
-- Postdoctoral Researcher, Sociology, University of Amsterdam (2017-2019)
-
-## Major Grants
-
-- **Swedish Research Council (VR) (2026-2029, €472,000)** - False words, failing democracies? (Co-PI)
-- **NWO VIDI (2025-2030, €850,000)** - Improving social media with large language models (PI)
-- **Trans-Atlantic Platform (2024-2027, €500,000)** - DemDialogueAI (Co-PI)
-- **NWO VENI (2021-2025, €250,000)** - Seeing the city through digital platforms (PI)
-- **EU H2020 ODYCCEUS (2017-2021, €6,000,000 project)** - Social media and political conflict (contributor and work-package co-author)
+- Postdoctoral researcher, IDHEAP, University of Lausanne (May 2021-September 2023)
+- Lecturer, Institute of Political Science, Leiden University (February 2020-May 2021)
+- Visiting scholar, Department of Political Science, University of Amsterdam (September 2017-September 2019)
 
 ## Education
 
-- Habilitation / P.D., Chalmers University of Technology (2022)
-- PhD in Complex Systems, Chalmers University of Technology (2017)
-- MSc in Complex Adaptive Systems, Chalmers University of Technology (2011)
-- BSc in Computer Science, Chalmers University of Technology (2010)
+- **PhD in Political Science**, University of Geneva (March 2020)  
+  Dissertation: *Who Deserves Welfare? The Populist Radical Right's Transformation of Social Policy*
+- **MSc in Government and Public Administration**, Getulio Vargas Foundation (May 2013)
+- **BSc in Economics**, University of Sao Paulo (June 2009)
+- **BSc in International Relations**, Pontifical Catholic University of Sao Paulo (February 2009)
 
-## Service and Recognition
+## Selected Invited Talks
 
-- Head of Research Unit: AI, Culture & Society (ILLC)
-- Member, De Jonge Akademie (KNAW)
-- EU Horizon external expert (disinformation reviews)
-- Reviewer for outlets including *Science*, *PNAS*, *Nature Human Behaviour*, *Nature Communications*, and *New Media & Society*
+- **2026** - The Politics of AI: Citizen Perceptions, Preferences, and Priorities, Nuffield College, Oxford
+- **2025** - Self-Interest, Solidarity, and Consumer Choice in the Platform Economy, PPRNet Annual Meeting, Humboldt University Berlin
+- **2024** - Evaluating the Political Power of Platform Companies, Political Economy and Public Policy Talk, Leiden University
+- **2024** - Radical right-wing populism and the welfare state in Europe, University of Sao Paulo
+- **2023** - Right-Wing Populist Parties and the Welfare State, EZA Brussels Conference
 
-## Full Materials
+## Languages
 
-- [Google Scholar profile](https://scholar.google.com/citations?user=KuJMuvIAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0001-8722-8646)
-- [CV source (LaTeX)](/CV/2025CV/main.tex)
-- [Publication BibTeX source](/CV/2025CV/publications.bib)
+Portuguese (native), English (fluent), French (intermediate)
+
+## Links
+
+- [ORCID](https://orcid.org/0000-0001-7629-6731)
+- [VU Research Profile](https://research.vu.nl/en/persons/juliana-chueri-barbosa-correa)
+- [Download CV (DOCX)](/CV-Chueri%202026.docx)

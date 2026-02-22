@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Computational Social Science, <a href="https://www.uva.nl/en" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>
+subtitle: Assistant Professor of Comparative Politics, <a href="https://vu.nl/en" target="_blank" rel="noopener noreferrer">Vrije Universiteit Amsterdam</a>
 
 profile:
   align: right
-  image: petter-tornberg-profile.jpg
-  image_circular: false
+  more_info: >
+    <p>Department of Political Science and Public Administration</p>
+    <p>Vrije Universiteit Amsterdam</p>
+    <p>Amsterdam, The Netherlands</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -19,32 +21,22 @@ latest_posts:
   enabled: false
 ---
 
-Petter Törnberg is Associate Professor in Computational Social Science at the University of Amsterdam and head of the research unit **AI, Culture & Society** at ILLC. His research examines how digital platforms and AI reshape public discourse, political conflict, urban life, and democratic institutions.
+Juliana Chueri is Assistant Professor of Comparative Politics at Vrije Universiteit Amsterdam. Her research examines how welfare states adapt to political and technological disruption, with a focus on populist radical-right politics, platform work, and the politics of artificial intelligence.
 
-His work combines large-scale computational analysis with social theory, and has been published in outlets including *PNAS*, *New Media & Society*, *Big Data & Society*, and *The International Journal of Press/Politics*. He is the author of two books, including *Intimate Communities of Hate* (Routledge, 2024) and *Seeing Like a Platform* (Taylor & Francis, 2025).
+She completed her PhD in Political Science at the University of Geneva in March 2020 with the dissertation *Who Deserves Welfare? The Populist Radical Right's Transformation of Social Policy*. Before joining VU, she worked as a lecturer at Leiden University and as a postdoctoral researcher at the University of Lausanne (IDHEAP).
 
-His work has received over 4,000 citations (Google Scholar).
+In September 2025, she received a European Research Council (ERC) Starting Grant for the project **(Re)distributive Politics after the AI Revolution (REPAIR)**, which studies how AI-driven labor market changes reshape preferences and politics around social protection.
 
-## Research Focus
+## Research Areas
 
-- Digital politics, misinformation, and polarization
-- Social media governance and platform power
-- Large language models for social science research
-- Urban/platform transformations and digital capitalism
-
-## Leadership, Grants, and Recognition
-
-- Head of Research Unit: **AI, Culture & Society** (ILLC, UvA)
-- **NWO VIDI** (€850,000, 2025-2030): Improving social media with large language models
-- **NWO VENI** (€250,000, 2021-2025): Seeing the city through digital platforms
-- **Swedish Research Council (VR)** (€472,000, 2026-2029): False words, failing democracies? (Co-PI)
-- **Trans-Atlantic Platform** grant (€500,000, 2024-2027), Co-PI
-- Member of **De Jonge Akademie** (KNAW)
+- Comparative political economy of welfare states
+- Populist radical right parties and welfare politics
+- Platform work, labor market change, and social policy
+- AI, automation, and redistributive politics
 
 ## Explore
 
-- [Selected publications with summaries and impact](/publications/)
-- [Media appearances and commentary](/media/)
-- [Press kit and downloadable photos](/press/)
-- [Current and past research projects](/projects/)
-- [CV overview](/cv/)
+- [Publications](/publications/)
+- [Research projects](/projects/)
+- [CV](/cv/)
+- [Media and outreach](/media/)

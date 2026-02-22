@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Seeing Like a Platform book cover</title>
+  <desc id="desc">Stylized cover image for the book Seeing Like a Platform</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1f2a"/>
+      <stop offset="50%" stop-color="#153447"/>
+      <stop offset="100%" stop-color="#1f4f6b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7fd6ff" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#2a8ec4" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1400" fill="url(#bg2)"/>
+  <g opacity="0.45">
+    <path d="M-120 990 L1020 300" stroke="url(#line)" stroke-width="4"/>
+    <path d="M-120 1080 L1020 390" stroke="url(#line)" stroke-width="4"/>
+    <path d="M-120 1170 L1020 480" stroke="url(#line)" stroke-width="4"/>
+    <path d="M-120 1260 L1020 570" stroke="url(#line)" stroke-width="4"/>
+  </g>
+  <rect x="70" y="210" width="760" height="8" fill="#8ad8ff" opacity="0.8"/>
+  <text x="70" y="360" fill="#f0fbff" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700">Seeing Like</text>
+  <text x="70" y="462" fill="#f0fbff" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700">a Platform</text>
+  <text x="70" y="582" fill="#d5ecf7" font-family="Helvetica, Arial, sans-serif" font-size="42">An Inquiry into the Condition</text>
+  <text x="70" y="640" fill="#d5ecf7" font-family="Helvetica, Arial, sans-serif" font-size="42">of Digital Modernity</text>
+  <text x="70" y="1210" fill="#f0fbff" font-family="Helvetica, Arial, sans-serif" font-size="36" letter-spacing="1">Petter Tornberg</text>
+  <text x="70" y="1260" fill="#f0fbff" font-family="Helvetica, Arial, sans-serif" font-size="36" letter-spacing="1">Justus Uitermark</text>
+  <text x="555" y="1320" fill="#cce8f5" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">TAYLOR &amp; FRANCIS</text>
+</svg>

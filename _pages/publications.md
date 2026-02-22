@@ -69,7 +69,7 @@ Its impact is a synthetic framework used across media studies, political sociolo
 A theoretical and empirical account of digital modernity through the lens of platform power.
 Its impact is a broader conceptual vocabulary for studying governance, urban change, and AI-mediated social order.
 
-## Selected List (BibTeX-driven)
+## Extended Publication List (BibTeX-driven)
 
 {% include bib_search.liquid %}
 
@@ -79,4 +79,5 @@ Its impact is a broader conceptual vocabulary for studying governance, urban cha
 
 </div>
 
-For a full and continuously updated publication list, see [Google Scholar](https://scholar.google.com/citations?user=KuJMuvIAAAAJ&hl=en).
+This on-site bibliography is curated from the CV source files and currently includes a broad multi-year selection (journal articles, books, and key preprints).  
+For the complete and continuously updated record, see [Google Scholar](https://scholar.google.com/citations?user=KuJMuvIAAAAJ&hl=en).

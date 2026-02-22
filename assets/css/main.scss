@@ -23,3 +23,102 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* --------------------------------------------------------------------------
+   Site polish: cleaner typography hierarchy and spacing
+   -------------------------------------------------------------------------- */
+
+:root {
+  --global-theme-color: #0f5c9a;
+  --global-hover-color: #0f5c9a;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #76c4ff;
+  --global-hover-color: #76c4ff;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.post {
+  font-size: 1.03rem;
+  line-height: 1.7;
+}
+
+.post .post-header .post-title {
+  font-size: clamp(1.9rem, 4vw, 2.35rem);
+  letter-spacing: -0.02em;
+  line-height: 1.16;
+  margin-bottom: 0.3rem;
+}
+
+.post .post-header .desc {
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4 {
+  letter-spacing: -0.01em;
+}
+
+.post h1 {
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  margin-top: 2.1rem;
+  margin-bottom: 0.8rem;
+}
+
+.post h2 {
+  font-size: clamp(1.3rem, 2.2vw, 1.55rem);
+  margin-top: 1.9rem;
+  margin-bottom: 0.7rem;
+  padding-bottom: 0.18rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.post h3 {
+  font-size: clamp(1.08rem, 1.9vw, 1.2rem);
+  margin-top: 1.35rem;
+  margin-bottom: 0.45rem;
+}
+
+.post h4 {
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+}
+
+.post p {
+  margin-bottom: 0.95rem;
+  max-width: 74ch;
+}
+
+.post ul,
+.post ol {
+  padding-left: 1.2rem;
+}
+
+.post li {
+  margin-bottom: 0.35rem;
+}
+
+.profile .more-info {
+  background: var(--global-code-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.55rem;
+  padding: 0.55rem 0.65rem;
+  margin-top: 0.65rem;
+}
+
+.publications .title {
+  font-weight: 600;
+}
+
+.publications .periodical {
+  color: var(--global-text-color-light);
+}

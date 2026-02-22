@@ -32,3 +32,67 @@
 
 "Book":
   color: "#444444"
+
+"SMS":
+  url: https://journals.sagepub.com/home/sms
+  color: "#1f6f8b"
+
+"DGS":
+  url: https://www.sciencedirect.com/journal/digital-geography-and-society
+  color: "#2f855a"
+
+"MCS":
+  url: https://journals.sagepub.com/home/mcs
+  color: "#8a3f2b"
+
+"JESP":
+  url: https://journals.sagepub.com/home/esp
+  color: "#6b4f9d"
+
+"ICWSM":
+  url: https://ojs.aaai.org/index.php/ICWSM
+  color: "#105f8a"
+
+"SOC":
+  url: https://sociologica.unibo.it/
+  color: "#7a5c2e"
+
+"JCSS":
+  url: https://link.springer.com/journal/42001
+  color: "#3f7d58"
+
+"PRE":
+  url: https://www.tandfonline.com/journals/rpre20
+  color: "#5a7080"
+
+"SAGE":
+  url: https://methods.sagepub.com/
+  color: "#4b5563"
+
+"CC":
+  url: https://journals.sagepub.com/home/cmx
+  color: "#7d3e6b"
+
+"UTR":
+  url: https://urbantransformations.biomedcentral.com/
+  color: "#6d7f2e"
+
+"MOB":
+  url: https://mobilizationjournal.org/
+  color: "#8a5a00"
+
+"SN":
+  url: https://www.sciencedirect.com/journal/social-networks
+  color: "#2d6a4f"
+
+"IJoC":
+  url: https://ijoc.org/index.php/ijoc
+  color: "#2a6f97"
+
+"EPA":
+  url: https://journals.sagepub.com/home/epn
+  color: "#7b2d26"
+
+"FSC":
+  url: https://www.frontiersin.org/journals/sustainable-cities
+  color: "#2b6777"

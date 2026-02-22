@@ -9,13 +9,24 @@ description: press kit, biography, and downloadable photos
 
 ## Press Photos
 
-![Petter Törnberg press photo 1](/assets/img/press/petter-tornberg-press-1-web.jpg)
-
-Download: [JPG](/assets/files/press/petter-tornberg-press-1.jpg)
-
-![Petter Törnberg press photo 2](/assets/img/press/petter-tornberg-press-2-web.jpg)
-
-Download: [JPG](/assets/files/press/petter-tornberg-press-2.jpg)
+<div class="press-photo-grid">
+  <figure class="press-photo-item">
+    <img
+      class="press-photo-thumb"
+      src="/assets/img/press/petter-tornberg-press-1-web.jpg"
+      alt="Petter Törnberg press photo 1"
+    >
+    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-1.jpg">press photo 1</a></figcaption>
+  </figure>
+  <figure class="press-photo-item">
+    <img
+      class="press-photo-thumb"
+      src="/assets/img/press/petter-tornberg-press-2-web.jpg"
+      alt="Petter Törnberg press photo 2"
+    >
+    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-2.jpg">press photo 2</a></figcaption>
+  </figure>
+</div>
 
 For print, TV, or event materials, please credit: **Petter Törnberg / University of Amsterdam**.
 

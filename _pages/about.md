@@ -27,7 +27,7 @@ Petter Törnberg is Associate Professor in Computational Social Science at the U
 
 His work combines large-scale computational analysis with social theory, and has been published in outlets including *PNAS*, *New Media & Society*, *Big Data & Society*, and *The International Journal of Press/Politics*. He is the author of two books, including *Intimate Communities of Hate* (Routledge, 2024) and *Seeing Like a Platform* (Taylor & Francis, 2025).
 
-According to his 2025 CV/Google Scholar profile, his work has received over 4,000 citations.
+His work has received over 4,000 citations (Google Scholar).
 
 ## Research Focus
 

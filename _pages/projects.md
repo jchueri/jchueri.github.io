@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Project status below is based on **February 21, 2026**.
+Projects are grouped by grant period into current and past work.
 
 ## Current Projects
 
@@ -27,7 +27,6 @@ Project status below is based on **February 21, 2026**.
 - **Role:** Co-PI
 - **Focus:** Cross-national collaboration on generative social simulation and democratic dialogue interventions.
 - **Core collaborators:** Chris Bail (Duke), Chris Barrie (NYU), Aniko Hannak (UZH).
-- **PhD students currently listed under this grant:** none explicitly listed in CV.
 
 ### False Words, Failing Democracies? A Global Comparative Analysis of Institutional Vulnerability to Political Misinformation (Swedish Research Council, VR)
 - **Period:** 2026-2029
@@ -35,7 +34,6 @@ Project status below is based on **February 21, 2026**.
 - **Role:** Co-PI
 - **Focus:** Global comparative analysis of misinformation in political communication and institutional vulnerability.
 - **Core collaborators:** Anton Törnberg, Juliana Chueri.
-- **PhD students currently listed under this grant:** none explicitly listed in CV.
 
 ## Past Projects
 
@@ -44,7 +42,6 @@ Project status below is based on **February 21, 2026**.
 - **Funding:** €250,000
 - **Role:** PI
 - **Focus:** How digital platforms transform cities, urban conflict, and platform-mediated spatial dynamics.
-- **PhD students currently listed under this grant:** none explicitly listed in CV.
 
 ### ODYCCEUS (EU Horizon 2020, Grant No. 732942)
 - **Period:** 2017-2021

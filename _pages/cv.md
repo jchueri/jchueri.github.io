@@ -26,7 +26,7 @@ Institute for Logic, Language and Computation (ILLC), University of Amsterdam
 - **NWO VIDI (2025-2030, €850,000)** - Improving social media with large language models (PI)
 - **Trans-Atlantic Platform (2024-2027, €500,000)** - DemDialogueAI (Co-PI)
 - **NWO VENI (2021-2025, €250,000)** - Seeing the city through digital platforms (PI)
-- **EU H2020 ODYCCEUS (2017-2021, €6,000,000 project)** - social media and political conflict (contributor and WP co-author)
+- **EU H2020 ODYCCEUS (2017-2021, €6,000,000 project)** - Social media and political conflict (contributor and work-package co-author)
 
 ## Education
 

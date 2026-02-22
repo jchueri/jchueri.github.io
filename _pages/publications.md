@@ -20,7 +20,7 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?user
   <article class="book-feature-card">
     <img
       class="book-feature-cover"
-      src="/assets/img/book_covers/intimate-communities-of-hate.svg"
+      src="/assets/img/book_covers/intimatebook.webp"
       alt="Cover of Intimate Communities of Hate"
     >
     <div class="book-feature-meta">
@@ -32,7 +32,7 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?user
   <article class="book-feature-card">
     <img
       class="book-feature-cover"
-      src="/assets/img/book_covers/seeing-like-a-platform.svg"
+      src="/assets/img/book_covers/seeinglikeaplatform.jpeg"
       alt="Cover of Seeing Like a Platform"
     >
     <div class="book-feature-meta">

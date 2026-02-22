@@ -8,10 +8,6 @@ profile:
   align: right
   image: petter-tornberg-profile.jpg
   image_circular: false
-  more_info: >
-    <p>Institute for Logic, Language and Computation (ILLC)</p>
-    <p>University of Amsterdam</p>
-    <p>Amsterdam, The Netherlands</p>
 
 selected_papers: true
 social: true

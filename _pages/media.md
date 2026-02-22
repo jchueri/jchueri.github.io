@@ -48,7 +48,6 @@ Coverage includes outlets such as *Science*, *The Guardian*, *The Atlantic*, *Ne
 ## Writing
 
 <ul class="media-list">
-  <li><span class="media-date">2025-08-21</span><span class="media-source">Science Magazine (essay)</span><a href="https://www.science.org/doi/pdf/10.1126/science.aeb6157">Don't blame the algorithms for online polarization</a></li>
   <li><span class="media-date">2025-07-01</span><span class="media-source">NOEMA Magazine (essay)</span><a href="https://www.noemamag.com/the-ascendance-of-algorithmic-tyranny/">The Ascendance of Algorithmic Tyranny</a></li>
 </ul>
 
@@ -57,6 +56,7 @@ Coverage includes outlets such as *Science*, *The Guardian*, *The Atlantic*, *Ne
 ### 2025
 
 <ul class="media-list">
+  <li><span class="media-date">2025-08-21</span><span class="media-source">Science Magazine (interview/feature)</span><a href="https://www.science.org/doi/pdf/10.1126/science.aeb6157">Don't blame the algorithms for online polarization</a></li>
   <li><span class="media-date">2025-08-28</span><span class="media-source">The Week (feature)</span><a href="https://theweek.com/tech/what-an-all-bot-social-network-tells-us-about-social-media">What an all-bot social network tells us about social media</a></li>
   <li><span class="media-date">2025-08-23</span><span class="media-source">New Scientist (issue feature)</span><a href="https://reader.exacteditions.com/issues/141395/page/16">Algorithms not to blame for social media toxicity</a></li>
   <li><span class="media-date">2025-08-20</span><span class="media-source">UNN (Ukraine, syndication)</span><a href="https://unn.ua/en/news/scientists-created-a-social-network-of-bots-what-they-learned">Scientists created a social network of bots: what they learned</a></li>
